@@ -22,9 +22,9 @@ This tool loads a Mobilenet image classification model into RedisAI, takes a bun
 
 ## Usage
 
-This is a simple example that uses the CLI. Everythign you need should be included in the repo. The model is in the `model` folder. There are even some images to play with in the `img` folder.
+This is a simple example that uses the CLI. Everything you need should be included in the repo. The model is in the `model` folder. There are even some images to play with in the `img` folder.
 
-To user the tool to classify an images, just run:
+To use the tool to classify an image, just run:
 
     $ npm start img/panda.jpg
 
